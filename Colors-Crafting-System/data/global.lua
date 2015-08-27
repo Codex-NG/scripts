@@ -1,0 +1,1 @@
+dofile("data/craftsystem.lua")
